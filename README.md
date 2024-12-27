@@ -7,7 +7,7 @@ This repository contains a data analysis project focusing on student performance
 The repository includes the following files:
 
 - `Student Result Analysis.ipynb`: Jupyter Notebook containing the detailed data analysis process and visualizations.
-- `dataset.csv`: The dataset used for the analysis.
+- `student_scores.csv`: The dataset used for the analysis.
 - `README.md`: This documentation file.
 
 ## Features
@@ -36,12 +36,12 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/student-result-analysis.git
+git clone https://github.com/Abs-Futy7/Student_Result_Data_Analysis.git
 ```
 
 2. Navigate to the directory:
 ```bash
-cd student-result-analysis
+cd Student_Result_Data_Analysis
 ```
 
 3. Run the Jupyter Notebook:
@@ -51,15 +51,20 @@ jupyter notebook "Student Result Analysis.ipynb"
 
 ## Dataset
 
-The dataset used in this project is included in the repository as `dataset.csv`. You can [download it here](./student_scores.csv).
+The dataset used in this project is included in the repository as `student_scores.csv`. You can [download it here](./student_scores.csv).
 
 ## Visualizations
+G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Gender count.png
 
-### Boxplot Example
+G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Parent Marital Status vs Student Score.png
 
-The project includes boxplots comparing Reading, Math, and Writing scores:
+G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\ParentEdu vs StudentScore.png
 
-![Boxplot Example](assets/boxplot_example.png)
+G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Score Box Plot.png
+
+G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Ethnic Grp Dist.png
+
+G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\EthnicGroup.png
 
 ## Contributions
 
