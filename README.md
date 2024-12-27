@@ -54,17 +54,24 @@ jupyter notebook "Student Result Analysis.ipynb"
 The dataset used in this project is included in the repository as `student_scores.csv`. You can [download it here](./student_scores.csv).
 
 ## Visualizations
-G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Gender count.png
 
-G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Parent Marital Status vs Student Score.png
+### Gender Count
+![Gender Count](assets/Gender_count.png)
 
-G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\ParentEdu vs StudentScore.png
+### Parent Marital Status vs Student Score
+![Parent Marital Status vs Student Score](assets/Parent_Marital_Status_vs_Student_Score.png)
 
-G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Score Box Plot.png
+### Parent Education vs Student Score
+![Parent Education vs Student Score](assets/ParentEdu_vs_StudentScore.png)
 
-G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\Ethnic Grp Dist.png
+### Score Box Plot
+![Score Box Plot](assets/Score_Box_Plot.png)
 
-G:\Python\EDA Project\Student-Exam-Score-Dataset-Analysis\assets\EthnicGroup.png
+### Ethnic Group Distribution
+![Ethnic Group Distribution](assets/Ethnic_Grp_Dist.png)
+
+### Ethnic Group
+![Ethnic Group](assets/EthnicGroup.png)
 
 ## Contributions
 
